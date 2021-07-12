@@ -1,0 +1,33 @@
+h1
+{
+    margin-bottom: 30px;
+    color: red;
+    text-decoration: underline;
+}
+input
+{
+    margin-right: 15px;
+    margin-bottom: 15px;
+    width: 40%;
+    border: dashed;
+    font-weight: bold;
+    background-color: aqua;
+}
+button
+{
+    margin-bottom: 20px;
+    background-color: chartreuse;
+    font-weight: bold;
+}
+hr
+{
+margin-bottom: 15px;
+}
+div
+{
+    color: orangered;
+}
+body
+{
+    background-color: navy;
+}
